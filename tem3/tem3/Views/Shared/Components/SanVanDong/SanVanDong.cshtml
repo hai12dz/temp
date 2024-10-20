@@ -1,0 +1,137 @@
+﻿@model List<Sanvandong>
+
+@foreach (var item in Model)
+{
+
+    var getUrl = "https://localhost:7119/api/cauthuapi/" + @item.TenSan;
+	<li>
+
+
+
+
+       
+    <li> <a class="btn" onclick="showCauThuTheoTenSVD('@getUrl')">@item.TenSan</a></li>
+
+
+
+
+	</li>
+}
+
+
+
+
+
+<script>
+    function showCauThuTheoTenSVD(getUrl) {
+        console.log('Fetching from URL:', getUrl); // Kiểm tra URL
+
+        document.querySelector('#renderbody').innerHTML = '';
+
+        $.ajax({
+            url: getUrl,
+            method: 'GET',
+            success: function (data) {
+                console.log('Data received:', data); // Kiểm tra dữ liệu
+                if (!data) {
+                    throw new Error('Data is null or undefined');
+                }
+
+                let str = '';
+
+                if (Array.isArray(data) && data.length > 0) {
+                    str += `
+
+
+                    <p>
+                <a href="@Url.Action("Create", "Home")">Create New</a>
+
+            </p>
+                     <table style="margin:auto" class="table">
+        <thead>
+            <tr>
+                <th>
+    Họ và tên
+                </th>
+                <th>
+    Ngày sinh
+                </th>
+                <th>
+    Vị Trí
+                </th>
+                <th>
+    Quốc tịch
+                </th>
+                <th>
+    Số áo
+                </th>
+                <th>
+    Ảnh
+                </th>
+             
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+
+
+                                `;
+
+                    data.forEach(item => {
+                        console.log('Processing item:', item); // Kiểm tra từng item
+                        str += `
+
+                              <tr>
+                <td>
+            ${item.hoVaTen}
+
+                </td>
+                <td>
+                ${item.ngaysinh}
+
+                </td>
+                <td>
+                ${item.viTri}
+
+                </td>
+                <td>
+                ${item.quocTich}
+
+                </td>
+                <td>
+                ${item.soAo}
+
+                </td>
+                <td>
+                <img src="/images/${item.anh}"  style="width: 200px; height: auto;">
+
+                </td>
+                
+                <td>
+                        <td>
+                                         <a class="btn btn-warning"  href="/Edit?id=${item.cauThuId}">Sửa</a> |
+                                                                <a class="btn btn-primary" href="/Details?id=${item.cauThuId}">Chi tiết</a> |
+                                                                <a class="btn btn-warning" href="/Delete?id=${item.cauThuId}">Xóa</a>
+                            </td>
+                </td>
+            </tr>
+                                  
+
+
+                                    `;
+                    });
+
+                    str += `</tbody>
+                                                </table>`;
+                } else {
+                    document.getElementById('renderbody').innerHTML = '<p>No data available.</p>';
+                }
+
+                document.getElementById('renderbody').innerHTML = str;
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                alert(`Error: ${textStatus} - ${errorThrown}`);
+            }
+        });
+    }
+</script>

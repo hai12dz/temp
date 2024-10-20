@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "tem3.Controllers.CauThuAPIController",
+    "Method": "GetCauThuTheoMa",
+    "RelativePath": "api/CauThuAPI/{tenSVD}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tenSVD",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[tem3.Models.CauThuModels.CauThuTheoSVD, tem3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

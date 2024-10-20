@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ttem2.props" />
+</Project>

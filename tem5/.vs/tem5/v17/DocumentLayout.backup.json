@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9190E53-0050-49D1-B982-28B9571A5CA4}|tem5\\tem5.csproj|e:\\zalo\\ltweb\\kiemtra\\tem5\\tem5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9190E53-0050-49D1-B982-28B9571A5CA4}|tem5\\tem5.csproj|solutionrelative:tem5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9190E53-0050-49D1-B982-28B9571A5CA4}|tem5\\tem5.csproj|e:\\zalo\\ltweb\\kiemtra\\tem5\\tem5\\viewcomponents\\trandauviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9190E53-0050-49D1-B982-28B9571A5CA4}|tem5\\tem5.csproj|solutionrelative:tem5\\viewcomponents\\trandauviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9190E53-0050-49D1-B982-28B9571A5CA4}|tem5\\tem5.csproj|e:\\zalo\\ltweb\\kiemtra\\tem5\\tem5\\views\\shared\\components\\trandau\\trandau.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9190E53-0050-49D1-B982-28B9571A5CA4}|tem5\\tem5.csproj|solutionrelative:tem5\\views\\shared\\components\\trandau\\trandau.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9190E53-0050-49D1-B982-28B9571A5CA4}|tem5\\tem5.csproj|e:\\zalo\\ltweb\\kiemtra\\tem5\\tem5\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9190E53-0050-49D1-B982-28B9571A5CA4}|tem5\\tem5.csproj|solutionrelative:tem5\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9190E53-0050-49D1-B982-28B9571A5CA4}|tem5\\tem5.csproj|e:\\zalo\\ltweb\\kiemtra\\tem5\\tem5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9190E53-0050-49D1-B982-28B9571A5CA4}|tem5\\tem5.csproj|solutionrelative:tem5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9190E53-0050-49D1-B982-28B9571A5CA4}|tem5\\tem5.csproj|e:\\zalo\\ltweb\\kiemtra\\tem5\\tem5\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9190E53-0050-49D1-B982-28B9571A5CA4}|tem5\\tem5.csproj|solutionrelative:tem5\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9190E53-0050-49D1-B982-28B9571A5CA4}|tem5\\tem5.csproj|e:\\zalo\\ltweb\\kiemtra\\tem5\\tem5\\views\\shared\\_layoutkiemtra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9190E53-0050-49D1-B982-28B9571A5CA4}|tem5\\tem5.csproj|solutionrelative:tem5\\views\\shared\\_layoutkiemtra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TranDauViewComponent.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\tem5\\ViewComponents\\TranDauViewComponent.cs",
+              "RelativeDocumentMoniker": "tem5\\ViewComponents\\TranDauViewComponent.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\tem5\\ViewComponents\\TranDauViewComponent.cs",
+              "RelativeToolTip": "tem5\\ViewComponents\\TranDauViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:46:18.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TranDau.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\tem5\\Views\\Shared\\Components\\TranDau\\TranDau.cshtml",
+              "RelativeDocumentMoniker": "tem5\\Views\\Shared\\Components\\TranDau\\TranDau.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\tem5\\Views\\Shared\\Components\\TranDau\\TranDau.cshtml",
+              "RelativeToolTip": "tem5\\Views\\Shared\\Components\\TranDau\\TranDau.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T21:45:16.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\tem5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "tem5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\tem5\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "tem5\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEBwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T21:40:07.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\tem5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "tem5\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\tem5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "tem5\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:40:05.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\tem5\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "tem5\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\tem5\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "tem5\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T21:34:03.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\tem5\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "tem5\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\tem5\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "tem5\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T21:33:55.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LayoutKiemTra.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\tem5\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "RelativeDocumentMoniker": "tem5\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem5\\tem5\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "RelativeToolTip": "tem5\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T21:33:41.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

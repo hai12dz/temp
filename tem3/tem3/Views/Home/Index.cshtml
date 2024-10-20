@@ -1,0 +1,57 @@
+﻿@model IEnumerable<tem3.Models.Huanluyenvien>
+
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutKiemTra.cshtml";
+
+
+}
+
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table style="margin:auto" class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên huấn luyện viên
+            </th>
+            <th>
+                Năm sinh
+            </th>
+            <th>
+                Quốc tịch
+            </th>
+            <th>
+                Ảnh
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.TenHlv
+            </td>
+            <td>
+                @item.NamSinh
+            </td>
+            <td>
+                @item.QuocTich
+            </td>
+            <td>
+                    <img style="width:200px; height:auto;" src="@Url.Content("~/images/" + item.Anh)" />
+
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.HuanLuyenVienId">Sửa</a> |
+                <a asp-action="Details" asp-route-id="@item.HuanLuyenVienId">Chi tiết</a> |
+                <a asp-action="Delete" asp-route-id="@item.HuanLuyenVienId">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

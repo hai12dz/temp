@@ -1,0 +1,100 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Hoang Hon &mdash; Hotel</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Work+Sans:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="../Tem/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../Tem/css/magnific-popup.css">
+    <link rel="stylesheet" href="../Tem/css/jquery-ui.css">
+    <link rel="stylesheet" href="../Tem/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../Tem/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="../Tem/css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="../Tem/css/animate.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/mediaelementplayer.min.css">
+
+
+
+    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="../Tem/css/aos.css">
+
+    <link rel="stylesheet" href="../Tem/css/style.css">
+
+</head>
+
+<body>
+
+    <div class="site-wrap">
+
+        <partial name="Header" />
+
+
+        <div id="renderbody">
+
+            @RenderBody()
+
+        </div>
+
+        <!-- danh sách phòng -->
+
+
+
+        
+
+     
+        <!-- footer -->
+        <partial name="Footer" />
+
+
+    </div>
+
+    <script src="../Tem/js/jquery-3.3.1.min.js"></script>
+    <script src="../Tem/js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="../Tem/js/jquery-ui.js"></script>
+    <script src="../Tem/js/popper.min.js"></script>
+    <script src="../Tem/js/bootstrap.min.js"></script>
+    <script src="../Tem/js/owl.carousel.min.js"></script>
+    <script src="../Tem/js/jquery.stellar.min.js"></script>
+    <script src="../Tem/js/jquery.countdown.min.js"></script>
+    <script src="../Tem/js/jquery.magnific-popup.min.js"></script>
+    <script src="../Tem/js/bootstrap-datepicker.min.js"></script>
+    <script src="../Tem/js/aos.js"></script>
+
+
+    <script src="../Tem/js/mediaelement-and-player.min.js"></script>
+
+    <script src="../Tem/js/main.js"></script>
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var mediaElements = document.querySelectorAll('video, audio'),
+                total = mediaElements.length;
+
+            for (var i = 0; i < total; i++) {
+                new MediaElementPlayer(mediaElements[i], {
+                    pluginPath: 'https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/',
+                    shimScriptAccess: 'always',
+                    success: function () {
+                        var target = document.body.querySelectorAll('.player'),
+                            targetTotal = target.length;
+                        for (var j = 0; j < targetTotal; j++) {
+                            target[j].style.visibility = 'visible';
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,613 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\tem9.bundle.scp.css",
+      "PackagePath": "staticwebassets\\tem9.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Tem\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Tem\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Tem\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\css\\main.css",
+      "PackagePath": "staticwebassets\\Tem\\css\\main.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\Tem\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\Tem\\css\\price-range.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Tem\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\404\\404.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\404\\404.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\blog\\blog-one.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\blog\\blog-one.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\blog\\blog-three.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\blog\\blog-three.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\blog\\blog-two.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\blog\\blog-two.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\blog\\man-four.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\blog\\man-four.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\blog\\man-one.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\blog\\man-one.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\blog\\man-three.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\blog\\man-three.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\blog\\man-two.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\blog\\man-two.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\blog\\socials.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\blog\\socials.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\cart\\one.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\cart\\one.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\cart\\three.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\cart\\three.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\cart\\two.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\cart\\two.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\bg_border.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\bg_border.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\gallery1.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\gallery2.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\gallery3.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\gallery4.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\girl1.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\girl1.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\girl2.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\girl2.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\girl3.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\girl3.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\iframe1.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\iframe1.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\iframe2.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\iframe2.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\iframe3.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\iframe3.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\iframe4.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\iframe4.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\logo.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\logo.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\map.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\map.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\new.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\new.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\partner1.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\partner1.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\partner2.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\partner2.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\partner3.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\partner3.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\partner4.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\partner4.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\pricing.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\pricing.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\product1.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\product1.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\product2.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\product2.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\product3.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\product3.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\product4.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\product4.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\product5.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\product5.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\product6.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\product6.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\recommend1.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\recommend1.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\recommend2.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\recommend2.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\recommend3.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\recommend3.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\sale.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\sale.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\searchicon.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\searchicon.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\home\\shipping.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\home\\shipping.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\product-details\\1.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-details\\1.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\product-details\\new.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-details\\new.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\product-details\\rating.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-details\\rating.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\product-details\\share.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-details\\share.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\product-details\\similar1.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-details\\similar1.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\product-details\\similar2.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-details\\similar2.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\product-details\\similar3.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-details\\similar3.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\shop\\advertisement.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\shop\\advertisement.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\shop\\product10.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\shop\\product10.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\shop\\product11.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\shop\\product11.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\shop\\product12.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\shop\\product12.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\shop\\product7.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\shop\\product7.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\shop\\product8.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\shop\\product8.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\images\\shop\\product9.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\shop\\product9.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Tem\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\js\\contact.js",
+      "PackagePath": "staticwebassets\\Tem\\js\\contact.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\Tem\\js\\gmaps.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\Tem\\js\\html5shiv.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\Tem\\js\\jquery.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\Tem\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\Tem\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\js\\main.js",
+      "PackagePath": "staticwebassets\\Tem\\js\\main.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\Tem\\js\\price-range.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\Tem\\sendemail.php",
+      "PackagePath": "staticwebassets\\Tem\\sendemail.php"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\jjs\\common.js",
+      "PackagePath": "staticwebassets\\jjs\\common.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\jjs\\css\\style.css",
+      "PackagePath": "staticwebassets\\jjs\\css\\style.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\jjs\\jquery-1.7.2.min.js",
+      "PackagePath": "staticwebassets\\jjs\\jquery-1.7.2.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\jjs\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\jjs\\jquery.fancybox.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\jjs\\jquery.flexslider-min.js",
+      "PackagePath": "staticwebassets\\jjs\\jquery.flexslider-min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\jjs\\jquery.scrolltotop.js",
+      "PackagePath": "staticwebassets\\jjs\\jquery.scrolltotop.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\jjs\\superfish.js",
+      "PackagePath": "staticwebassets\\jjs\\superfish.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem9\\tem9\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.tem9.props",
+      "PackagePath": "build\\tem9.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.tem9.props",
+      "PackagePath": "buildMultiTargeting\\tem9.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.tem9.props",
+      "PackagePath": "buildTransitive\\tem9.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.tem9.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

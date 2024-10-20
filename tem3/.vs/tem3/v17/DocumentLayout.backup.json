@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\views\\shared\\_layoutchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\views\\shared\\_layoutchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\controllers\\cauthuapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\controllers\\cauthuapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\views\\shared\\_layoutkiemtra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\views\\shared\\_layoutkiemtra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\views\\shared\\components\\sanvandong\\sanvandong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\views\\shared\\components\\sanvandong\\sanvandong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\models\\trandaucauthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\models\\trandaucauthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\viewcomponents\\sanvandongviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\viewcomponents\\sanvandongviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\models\\cauthumodels\\cauthutheosvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\models\\cauthumodels\\cauthutheosvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\models\\cauthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\models\\cauthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\models\\huanluyenvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\models\\huanluyenvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtra\\tem3\\tem3\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B27DBF19-54BE-40FC-8E8E-507274FA49AD}|tem3\\tem3.csproj|solutionrelative:tem3\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "tem3\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "tem3\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T00:48:00.076Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutChiTiet.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "RelativeDocumentMoniker": "tem3\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "RelativeToolTip": "tem3\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T01:11:24.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "tem3\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "tem3\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T00:39:09.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CauThuAPIController.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Controllers\\CauThuAPIController.cs",
+              "RelativeDocumentMoniker": "tem3\\Controllers\\CauThuAPIController.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Controllers\\CauThuAPIController.cs",
+              "RelativeToolTip": "tem3\\Controllers\\CauThuAPIController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:31:11.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CauThuTheoSVD.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Models\\CauThuModels\\CauThuTheoSVD.cs",
+              "RelativeDocumentMoniker": "tem3\\Models\\CauThuModels\\CauThuTheoSVD.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Models\\CauThuModels\\CauThuTheoSVD.cs",
+              "RelativeToolTip": "tem3\\Models\\CauThuModels\\CauThuTheoSVD.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:30:37.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrandauCauthu.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Models\\TrandauCauthu.cs",
+              "RelativeDocumentMoniker": "tem3\\Models\\TrandauCauthu.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Models\\TrandauCauthu.cs",
+              "RelativeToolTip": "tem3\\Models\\TrandauCauthu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:17:43.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cauthu.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Models\\Cauthu.cs",
+              "RelativeDocumentMoniker": "tem3\\Models\\Cauthu.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Models\\Cauthu.cs",
+              "RelativeToolTip": "tem3\\Models\\Cauthu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:17:31.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Huanluyenvien.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Models\\Huanluyenvien.cs",
+              "RelativeDocumentMoniker": "tem3\\Models\\Huanluyenvien.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Models\\Huanluyenvien.cs",
+              "RelativeToolTip": "tem3\\Models\\Huanluyenvien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:17:17.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SanVanDong.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Shared\\Components\\SanVanDong\\SanVanDong.cshtml",
+              "RelativeDocumentMoniker": "tem3\\Views\\Shared\\Components\\SanVanDong\\SanVanDong.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Shared\\Components\\SanVanDong\\SanVanDong.cshtml",
+              "RelativeToolTip": "tem3\\Views\\Shared\\Components\\SanVanDong\\SanVanDong.cshtml",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwGUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T21:12:58.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SanVanDongViewComponent.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\ViewComponents\\SanVanDongViewComponent.cs",
+              "RelativeDocumentMoniker": "tem3\\ViewComponents\\SanVanDongViewComponent.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\ViewComponents\\SanVanDongViewComponent.cs",
+              "RelativeToolTip": "tem3\\ViewComponents\\SanVanDongViewComponent.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:11:25.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "tem3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "tem3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T21:06:36.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "tem3\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "tem3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:06:33.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "tem3\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "tem3\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T21:01:59.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "tem3\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "tem3\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T21:01:47.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutKiemTra.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "RelativeDocumentMoniker": "tem3\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtra\\tem3\\tem3\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "RelativeToolTip": "tem3\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T21:00:28.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

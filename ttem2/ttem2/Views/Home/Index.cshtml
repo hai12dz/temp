@@ -1,0 +1,70 @@
+﻿@model List<ttem2.Models.Cauthu>
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutKiemTra.cshtml";
+
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Họ và tên
+            </th>
+            <th>
+                Ngày sinh
+            </th>
+            <th>
+                Vị trí
+            </th>
+            <th>
+                Quốc tịch
+            </th>
+            <th>
+                Số áo
+            </th>
+            <th>
+                Ảnh
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.HoVaTen
+                </td>
+                <td>
+                    @item.Ngaysinh
+                </td>
+                <td>
+                    @item.ViTri
+                </td>
+                <td>
+                    @item.QuocTich
+                </td>
+                <td>
+                    @item.SoAo
+                </td>
+                <td>
+                    <img src="@Url.Content("~/images/" + item.Anh)" />
+
+                </td>
+               
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.CauThuId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.CauThuId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.CauThuId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

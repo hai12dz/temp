@@ -1,0 +1,1357 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\tem6.bundle.scp.css",
+      "PackagePath": "staticwebassets\\tem6.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\.gitattributes",
+      "PackagePath": "staticwebassets\\Tem\\.gitattributes"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\css\\main.css",
+      "PackagePath": "staticwebassets\\Tem\\css\\main.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\css\\util.css",
+      "PackagePath": "staticwebassets\\Tem\\css\\util.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Montserrat\\OFL.txt"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\PlayfairDisplay\\OFL.txt",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\PlayfairDisplay\\OFL.txt"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\Poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\Poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\fonts\\linearicons-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\Tem\\fonts\\linearicons-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\about-01.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\about-01.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\about-02.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\about-02.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\avatar-01.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\banner-01.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\banner-01.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\banner-02.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\banner-02.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\banner-03.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\banner-03.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\banner-04.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\banner-04.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\banner-05.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\banner-05.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\banner-06.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\banner-06.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\banner-07.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\banner-07.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\banner-08.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\banner-08.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\banner-09.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\banner-09.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\bg-02.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\bg-02.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\blog-01.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\blog-02.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\blog-03.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\blog-04.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\blog-05.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\blog-05.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\blog-06.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\blog-06.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\gallery-01.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\gallery-01.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\gallery-02.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\gallery-02.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\gallery-03.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\gallery-03.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\gallery-04.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\gallery-04.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\gallery-05.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\gallery-05.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\gallery-06.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\gallery-06.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\gallery-07.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\gallery-07.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\gallery-08.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\gallery-08.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\gallery-09.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\gallery-09.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\icon-close.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\icon-close.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\icon-close2.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\icon-close2.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\icon-email.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\icon-email.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\icon-heart-01.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\icon-heart-01.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\icon-heart-02.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\icon-heart-02.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\icon-next.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\icon-next.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\icon-pay-01.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\icon-pay-01.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\icon-pay-02.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\icon-pay-02.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\icon-pay-03.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\icon-pay-03.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\icon-pay-04.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\icon-pay-04.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\icon-pay-05.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\icon-pay-05.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\icon-prev.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\icon-prev.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\logo-01.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\logo-01.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\logo-02.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\logo-02.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\icons\\pin.png",
+      "PackagePath": "staticwebassets\\Tem\\images\\icons\\pin.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\item-cart-01.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\item-cart-01.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\item-cart-02.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\item-cart-02.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\item-cart-03.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\item-cart-03.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\item-cart-04.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\item-cart-04.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\item-cart-05.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\item-cart-05.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-01.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-01.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-02.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-02.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-03.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-03.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-04.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-04.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-05.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-05.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-06.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-06.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-07.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-07.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-08.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-08.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-09.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-09.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-10.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-10.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-11.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-11.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-12.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-12.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-13.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-13.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-14.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-14.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-15.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-15.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-16.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-16.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-detail-01.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-detail-01.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-detail-02.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-detail-02.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-detail-03.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-detail-03.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-min-01.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-min-01.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-min-02.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-min-02.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\product-min-03.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\product-min-03.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\slide-01.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\slide-01.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\slide-02.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\slide-02.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\slide-03.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\slide-03.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\slide-04.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\slide-04.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\slide-05.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\slide-05.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\slide-06.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\slide-06.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\slide-07.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\slide-07.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\thumb-01.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\thumb-01.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\thumb-02.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\thumb-02.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\images\\thumb-03.jpg",
+      "PackagePath": "staticwebassets\\Tem\\images\\thumb-03.jpg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\js\\main.js",
+      "PackagePath": "staticwebassets\\Tem\\js\\main.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\js\\map-custom.js",
+      "PackagePath": "staticwebassets\\Tem\\js\\map-custom.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\js\\slick-custom.js",
+      "PackagePath": "staticwebassets\\Tem\\js\\slick-custom.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\MagnificPopup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\MagnificPopup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\MagnificPopup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\MagnificPopup\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\index.html",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\index.html"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\jquery-ui.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\jqueryui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\jqueryui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\parallax100\\parallax100.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\parallax100\\parallax100.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\Tem\\vendor\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\Tem\\vendor\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\jjs\\common.js",
+      "PackagePath": "staticwebassets\\jjs\\common.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\jjs\\css\\style.css",
+      "PackagePath": "staticwebassets\\jjs\\css\\style.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\jjs\\jquery-1.7.2.min.js",
+      "PackagePath": "staticwebassets\\jjs\\jquery-1.7.2.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\jjs\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\jjs\\jquery.fancybox.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\jjs\\jquery.flexslider-min.js",
+      "PackagePath": "staticwebassets\\jjs\\jquery.flexslider-min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\jjs\\jquery.scrolltotop.js",
+      "PackagePath": "staticwebassets\\jjs\\jquery.scrolltotop.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\jjs\\superfish.js",
+      "PackagePath": "staticwebassets\\jjs\\superfish.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\zalo\\ltweb\\Kiemtra\\tem6\\tem6\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.tem6.props",
+      "PackagePath": "build\\tem6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.tem6.props",
+      "PackagePath": "buildMultiTargeting\\tem6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.tem6.props",
+      "PackagePath": "buildTransitive\\tem6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.tem6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

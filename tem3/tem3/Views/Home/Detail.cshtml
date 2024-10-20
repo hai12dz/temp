@@ -1,0 +1,67 @@
+﻿@model tem3.Models.Cauthu
+
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Views/Shared/_LayoutChiTiet.cshtml";
+
+}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center">
+            <h1>THÔNG TIN CHI TIẾT CỦA CẦU THỦ</h1>
+            <div style="margin:auto">
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-4">
+                        Họ và tên
+                    </dt>
+                    <dd class="col-sm-8">
+                        @Html.DisplayFor(model => model.HoVaTen)
+                    </dd>
+
+                    <dt class="col-sm-4">
+                        Ngày sinh
+                    </dt>
+                    <dd class="col-sm-8">
+                        @Html.DisplayFor(model => model.Ngaysinh)
+                    </dd>
+
+                    <dt class="col-sm-4">
+                        Vị trí
+                    </dt>
+                    <dd class="col-sm-8">
+                        @Html.DisplayFor(model => model.ViTri)
+                    </dd>
+
+                    <dt class="col-sm-4">
+                        Quốc tịch
+                    </dt>
+                    <dd class="col-sm-8">
+                        @Html.DisplayFor(model => model.QuocTich)
+                    </dd>
+
+                    <dt class="col-sm-4">
+                        Số áo
+                    </dt>
+                    <dd class="col-sm-8">
+                        @Html.DisplayFor(model => model.SoAo)
+                    </dd>
+
+                    <dt class="col-sm-4">
+                        Ảnh
+                    </dt>
+                    <dd class="col-sm-8">
+                        <img src="@Url.Content("~/images/" + @Model.Anh)" style="max-width: 100%;" />
+                    </dd>
+
+                   
+                </dl>
+            </div>
+            <div   bottom: 10px; text-align: center;">
+                <a asp-action="Edit" asp-route-id="@Model?.CauThuId" class="btn btn-primary">Edit</a>
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+
+        </div>
+    </div>
+</div>
